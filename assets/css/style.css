@@ -29,6 +29,7 @@
       padding: 20px;
       padding-left: 0;
       font-size: 32px;
+      font-family: Georgia, 'Times New Roman', Times, serif;
       
   }
 
@@ -41,6 +42,7 @@
       margin-top: 40px;
       min-height: 100%; 
       padding-bottom: 100px;
+      border: solid thin #dddddd;
   }
 
   .content{
@@ -50,6 +52,7 @@
       background: #ffffff;
       margin: 0 auto;
       margin-top: 40px;
+      border: solid thin #dddddd;
      
   }
  
@@ -65,7 +68,7 @@
       position: relative;
       height: 165px;
       width: 218px;
-      color: #ffffff;
+      color: #cccccc;
 
   }
 
@@ -82,7 +85,7 @@
     position: relative;
     height: 165px;
     width: 218px;
-    color: #ffffff;
+    color: #cccccc;
   }
   
   .traveling{
@@ -104,12 +107,14 @@
     min-height: 100%; 
     overflow: auto;
     padding-bottom: 150px;
+    border: solid thin #dddddd;
   }
 
   p{
       margin: 0;
       line-height: 30px;
       color:#777777;
+      font-family: Arial, Helvetica, sans-serif;
       
   }
 
@@ -130,7 +135,7 @@
     position: relative;
     height: 165px;
     width: 218px;
-    color: #ffffff;
+    color: #cccccc;
   }
   
   .naturing{
@@ -157,7 +162,7 @@
     position: relative;
     height: 165px;
     width: 218px;
-    color: #ffffff;
+    color: #cccccc;
     position: absolute;
     top: 129px;
     right: 267px;
@@ -175,7 +180,7 @@
   .music{
     height: 165px;
     width: 218px;
-    color: #ffffff;
+    color: #cccccc;
     position: absolute;
     top: 315px;
     left: 275px;
@@ -211,7 +216,7 @@ input[type=submit] {
 
 .form{
    padding-top: 25px;
-   color: #cccccc;
+   color: #777777;
 }
 
 #profile{
